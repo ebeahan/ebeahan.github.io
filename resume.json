@@ -1,0 +1,173 @@
+
+{
+  "basics": {
+    "name": "Eric Beahan",
+    "label": "Engineer/Architect",
+    "picture": "",
+    "email": "ebeahan@gmail.com",
+    "phone": "816-944-0307",
+    "website": "https://ebeahan.github.io",
+    "summary": "Cloud and DevOps engineer focused on building scalable, resilient computing and data systems",
+    "location": {
+      "address": "8385 Renner Blvd Apt 1306",
+      "postalCode": "KS 66219",
+      "city": "Lenexa",
+      "countryCode": "US",
+      "region": "Kansas"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "ebeahan",
+      "url": "https://twitter.com/ebeahan"
+    },
+    {
+      "network": "LinkedIn",
+      "username": "ericbeahan",
+      "url": "https://www.linkedin.com/in/ericbeahan"
+    },
+    {
+      "network": "GitHub",
+      "username": "ebeahan",
+      "url": "https://github.com/ebeahan"
+    }]
+  },
+  "work": [{
+    "company": "Fishtech Group",
+    "position": "Cloud DevOps Engineer",
+    "website": "https://fshtech.group/cyderes/",
+    "startDate": "2018-07-18",
+    "endDate": "Present",
+    "summary": "Engineering operations lead and systems architect for the Cyderes platform.",
+    "highlights": [
+      "Design and manage the systems that ingest billions of customer events per month",
+      "Manage a entirely cloud-based as-a-service cybersecurity offering"
+    ]
+  },
+  {
+    "company": "RiskIQ",
+    "position": "Sr DevOps Engineer",
+    "website": "https://riskiq.com",
+    "startDate": "2017-05-01",
+    "endDate": "2018-07-17",
+    "summary": "Senior engineer on the technical operations team support the infrastructure for the leading provider in the digital threats management space"
+  },
+  {
+    "company": "DST Systems",
+    "position": "Software Developer",
+    "website": "https://www.dstsystems.com",
+    "startDate": "2016-06-27",
+    "endDate": "2017-04-28",
+    "summary": "Network automation developer responsible for building and running a network automation framework supporting the network and security engineering teams"
+  },
+  {
+    "company": "UMB Bank",
+    "position": "Information Security Engineer",
+    "website": "https://www.umb.com",
+    "startDate": "2015-02-23",
+    "endDate": "2016-06-24",
+    "summary": "Security engineer focused on network security for a large financial services organization"
+  },
+  {
+    "company": "Fishnet Security",
+    "position": "MSS Principal Engineer",
+    "website": "https://optiv.com",
+    "startDate": "2011-06-29",
+    "endDate": "2015-02-20",
+    "summary": "Worked in several aspects of support and managed services for one of the largest cybersecurity solutions provider in North America"
+  }],
+  "education": [{
+    "institution": "University of Kansas",
+    "studyType": "Bachelor",
+    "startDate": "2005-09-01",
+    "endDate": "2009-05-15",
+    "gpa": "3.8"
+  },
+  {
+    "institution": "Johnson County Community College",
+    "area": "Information Systems",
+    "startDate": "2010-01-15",
+    "endDate": "2012-05-15",
+    "gpa": "4.0"
+  }],
+  "awards": [{
+    "title": "Pillar of Excellence",
+    "date": "2011-03-01",
+    "awarder": "Scantron Corporation",
+    "summary": "Recipient of the annual company award in the area of trusty and integrity."
+  }],
+  "skills": [{
+    "name": "Cloud Platforms",
+    "level": "Expert",
+    "keywords": [
+      "AWS",
+      "GCE",
+      "Azure"
+    ]},
+    {
+      "name": "Containers and Orchestrators",
+      "level": "Expert",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "Swarm",
+        "AWS ECS"
+      ]
+    },
+    {
+      "name": "Automation and CI/CD Pipelines",
+      "level": "Expert",
+      "keywords": [
+        "Jenkins",
+        "ConcourseCI",
+        "Terraform",
+        "Cloudformation",
+        "Puppet",
+        "Ansible"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Proficient",
+      "keywords": [
+        "NodeJS",
+        "Python",
+        "Ruby",
+        "Java",
+        "Golang"
+      ]
+    },
+    {
+    "name": "Web Development",
+    "level": "Proficient",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Audio/Video",
+    "keywords": [
+      "home theater",
+      "audio",
+      "video",
+      "home automation"
+    ]
+  },
+  {
+    "name": "Musician",
+    "keywords": [
+      "saxophonist",
+      "keyboard",
+      "jazz",
+      "classical",
+      "funk",
+      "soul",
+      "R&B"
+    ]
+  }]
+}
