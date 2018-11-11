@@ -1,0 +1,23 @@
+{
+  "name": "ebeahan.github.io",
+  "version": "1.0.0",
+  "description": "Content for ebeahan.github.io",
+  "main": "index.js",
+  "dependencies": {
+    "hackmyresume": "^1.9.0-beta"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebeahan/ebeahan.github.io.git"
+  },
+  "author": "Eric Beahan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ebeahan/ebeahan.github.io/issues"
+  },
+  "homepage": "https://github.com/ebeahan/ebeahan.github.io#readme"
+}
