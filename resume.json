@@ -5,13 +5,13 @@
     "label": "Engineer/Architect",
     "picture": "",
     "email": "ebeahan@gmail.com",
-    "phone": "816-944-0307",
-    "website": "https://ebeahan.github.io",
-    "summary": "Cloud and DevOps engineer focused on building scalable, resilient computing and data systems",
+    "phone": "913-276-9382",
+    "website": "https://www.ericbeahan.com",
+    "summary": "Experienced security, infrastructure, and software engineer with extensive experience delivering security solutions in enterprise, reseller, and vendor environments.",
     "location": {
-      "address": "8385 Renner Blvd Apt 1306",
-      "postalCode": "KS 66219",
-      "city": "Lenexa",
+      "address": "6618 Noble St",
+      "postalCode": "KS 66218",
+      "city": "Shawnee",
       "countryCode": "US",
       "region": "Kansas"
     },
@@ -32,15 +32,21 @@
     }]
   },
   "work": [{
-    "company": "Fishtech Group",
-    "position": "Cloud DevOps Engineer",
-    "website": "https://fshtech.group/cyderes/",
+    "company": "Fishtech Group CYDERES",
+    "position": "Principal Engineer",
+    "website": "https://fishtech.group/cyderes/",
     "startDate": "2018-07-18",
     "endDate": "Present",
-    "summary": "Engineering operations lead and systems architect for the Cyderes platform.",
+    "summary": "Engineering operations lead and systems architect for the CYDERES cybersecurity and EMDR platform.",
     "highlights": [
-      "Design and manage the systems that ingest billions of customer events per month",
-      "Manage a entirely cloud-based as-a-service cybersecurity offering"
+      "Design and manage the threat detection pipelines that ingest billions of customer events per month",
+      "Manage a entirely cloud-based as-a-service cybersecurity offering",
+      "Architect and manage multiple Kubernetes clusters across public cloud providers and customer premises",
+      "Deploy and manage dozen of services running across AWS, Azure, and GCP using Terraform, Packer, and SaltStack",
+      "Develop microservices written in Python, Node.js, and Golang",
+      "Development and implementation of parsers for multiple SIEM platforms: Azure Sentinel, Google Chronicle, Splunk, Exabeam, and Elastic SIEM",
+      "Extensive experience building data and metric ingestion platforms on Elasticsearch, Logstash, Prometheus, and Grafana.",
+      "Architect and manage IAM and SSO customer connectivity with federation between Okta, PingOne, Azure AD, ADFS, and JumpCloud"
     ]
   },
   {
@@ -100,7 +106,7 @@
     "level": "Expert",
     "keywords": [
       "AWS",
-      "GCE",
+      "GCP",
       "Azure"
     ]},
     {
@@ -109,8 +115,8 @@
       "keywords": [
         "Docker",
         "Kubernetes",
-        "Swarm",
-        "AWS ECS"
+        "AWS EKS",
+        "GKE"
       ]
     },
     {
@@ -134,6 +140,20 @@
         "Ruby",
         "Java",
         "Golang"
+      ]
+    },
+    {
+      "name": "IAM and SSO",
+      "level": "Proficient",
+      "keywords": [
+        "SSO",
+        "SAML",
+        "OAuth",
+        "OpenID Connect",
+        "Okta",
+        "PingOne",
+        "Azure AD",
+        "JumpCloud"
       ]
     },
     {
